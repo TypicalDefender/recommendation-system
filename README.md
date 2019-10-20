@@ -1,5 +1,5 @@
 # Recommendation System Using Python
-#Popularity Model
+
 Contributer:
 1. Sarthak Dalabehera
 Language Used:
